@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 15% 20px 15%;
+}
+h1{
+    font-size: 56px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+}
+.texto1{
+    font-size: 18px;
+    color: #555555;
+}
+.size{
+    font-size: 16px;
+}
+.data{
+    font-size: 12px;
+}
+span{
+    color: #A6130A;
+    font-weight: bold;
+}
+.principal{
+    font-size: 20%;
+    color: #333333;
+}
+ul{
+    color:#A6130A;
+    font-size: 20px;
+    font-weight: bolder;
+}
+blockquote{
+    text-align: left;
+    font-weight: bold;
+    font-size: 28px;
+    border-left: 3px solid #A6130A;
+    padding-left: 20px;
+    margin-left: 0;
+}
